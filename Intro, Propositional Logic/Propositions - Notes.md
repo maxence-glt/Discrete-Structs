@@ -1,0 +1,6 @@
+- Proposition only T / F
+- Common variables are P, Q, R, S...
+- Combine propositions
+	- *Conjunction* $\land$ ("and") 
+	- *Disjunction* $\lor$ ("or") 
+	- Negation $\neg$ ("not")

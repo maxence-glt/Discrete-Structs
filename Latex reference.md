@@ -1,0 +1,69 @@
+https://en.wikibooks.org/wiki/LaTeX/Mathematics
+https://ashki23.github.io/markdown-latex.html
+###### Discrete
+- $\exists \quad \nexists$
+- $\forall$
+- $\cap$
+- $\cup$
+- $\subset$
+- $\supset$
+- $\in \quad \notin$
+- $\ni$
+- $\land$
+- $\lor$
+- $\exists$
+- $\implies \quad \impliedby \quad \iff \quad$
+- $\emptyset$
+- $\equiv$
+###### General
+- $x + y$
+- $x - y$
+- $x \times y$ 
+- $x \div y$
+- $\dfrac{x}{y}$
+- $\sqrt{x}$
+- $\pi \approx 3.14159$
+- $\pm \, 0.2$
+- $\dfrac{0}{1} \neq \infty$
+- $0 < x < 1$
+- $0 \leq x \leq 1$
+- $x \geq 10$
+- $\forall \, x \in (1,2)$
+- $\exists \, x \notin [0,1]$
+- $A \subset B$
+- $A \subseteq B$
+- $A \cup B$
+- $A \cap B$
+- $X \implies Y$
+- $X \impliedby Y$
+- $a \to b$
+- $a \longrightarrow b$
+- $a \Rightarrow b$
+- $a \Longrightarrow b$
+- $a \propto b$
+- $\bar a$
+- $\tilde a$
+- $\breve a$
+- $\hat a$
+- $a^ \prime$
+- $a^ \dagger$
+- $a^ \ast$
+- $a^ \star$
+- $\mathcal A$
+- $\mathrm a$
+- $\cdots$
+- $\vdots$
+- $\#$
+- $\$$
+- $\%$
+- $\&$
+- $\{ \}$
+- $\_$
+- $\mathbb{N} = \{ a \in \mathbb{Z} : a > 0 \}$
+- $\forall \; x \in X \quad \exists \; y \leq \epsilon$
+- $P \left( A=2 \, \middle| \, \dfrac{A^2}{B}>4 \right)$
+- $\mathrm{e} = \sum_{n=0}^{\infty} \dfrac{1}{n!}$
+- $\prod_{i=1}^{n} x_i - 1$
+- $\lim_{x \to 0^+} \dfrac{1}{x} = \infty$
+- $\int_a^b y \: \mathrm{d}x$
+- $\log_a b = 1$
