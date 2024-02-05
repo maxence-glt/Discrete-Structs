@@ -5,7 +5,7 @@ https://ashki23.github.io/markdown-latex.html
 - $\forall$
 - $\cap$
 - $\cup$
-- $\subset$
+- $\subset \quad \subseteq$
 - $\supset$
 - $\in \quad \notin$
 - $\ni$
