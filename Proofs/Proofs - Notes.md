@@ -3,7 +3,7 @@ https://www.eecs70.org/assets/pdf/lec-2-handout.pdf
 - A proof is a finite sequence of steps called *logical deductions* which establish the truth of a desired statement.
 	- *Finite* meaning we can guarantee the truth of a statement with *infinitely* many cases
 ###### The structure of a proof
-- 
+- Start with axioms (or postulates), these are statements we accept without 
 
 ###### Ways to prove
 1. By Example (or Counterexample)
